@@ -15,7 +15,9 @@ General tips:
 * When you come across an image you want to include, if it doesn't have an embed code generated automatically, take a screenshot and upload it to the [Images folder](https://github.com/zararah/Introduction-to-dataviz/tree/gh-pages/images), making sure that none of the image file names have spaces in them (use - or _ to separate words if you like.)
 In the slides, the images are called using: 
 
-	<img src="images/aidflows_indonesia_sources_of_oda.png" width="70%" class="centered">
+```
+<img src="images/aidflows_indonesia_sources_of_oda.png" width="70%" class="centered">
+```
 
 So, replace what comes after the first / with the name of your image, and adjust the percentage of width accordingly. 
 
